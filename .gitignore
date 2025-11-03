@@ -1,2 +1,4 @@
 # For fuck's sake macos, why do you have to litter everywhere
 .DS_Store
+.hugo_build.lock
+public*
