@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HugeSpaceship :: HugeSpaceship Docs</title>
+    <link>http://localhost:1313/index.html</link>
+    <description>This is the documentation site for all of the HugeSpaceship projects.&#xA;PatchworkA plugin to fix some of LittleBigPlanet&#39;s security vulnerabilities&#xA;BoosterBooster is a user friendly patching tool for the LittleBigPlanet games&#xA;HugeSpaceshipHugeSpaceship is a high performance scalable LittleBigPlanet custom server&#xA;LBPSearchLBPSearch is a tool to search the LittleBigPlanet archive</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Nov 2025 21:16:18 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Patchwork</title>
+      <link>http://localhost:1313/patchwork/index.html</link>
+      <pubDate>Mon, 03 Nov 2025 21:16:18 +0000</pubDate>
+      <guid>http://localhost:1313/patchwork/index.html</guid>
+      <description>A plugin to fix some of LittleBigPlanet&#39;s security vulnerabilities</description>
+    </item>
+    <item>
+      <title>Booster</title>
+      <link>http://localhost:1313/booster/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/booster/index.html</guid>
+      <description>Booster is a user friendly patching tool for the LittleBigPlanet games</description>
+    </item>
+    <item>
+      <title>HugeSpaceship</title>
+      <link>http://localhost:1313/hugespaceship/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugespaceship/index.html</guid>
+      <description>HugeSpaceship is a high performance scalable LittleBigPlanet custom server</description>
+    </item>
+    <item>
+      <title>LBPSearch</title>
+      <link>http://localhost:1313/lbpsearch/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/lbpsearch/index.html</guid>
+      <description>LBPSearch is a tool to search the LittleBigPlanet archive</description>
+    </item>
+  </channel>
+</rss>
