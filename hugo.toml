@@ -1,11 +1,13 @@
 baseURL = 'https://docs.hugespaceship.io/'
 languageCode = 'en-us'
 title = 'HugeSpaceship Docs'
+enableGitInfo = true
 [module]
   [[module.imports]]
     path = 'github.com/McShelby/hugo-theme-relearn'
 [params]
   themeVariant = 'hugespaceship'
+
 [[deployment.targets]]
 name = 'prod'
 url = 's3://docs-hugespaceship?endpoint=https://s3.eu-central-003.backblazeb2.com&region=eu-central-003'
