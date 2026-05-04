@@ -8,6 +8,7 @@ description = "High level information about LBPs resource types"
 
 Most of this information was found from Ennuo's LBP Toolkit, more specifically this file: [ResourceType.java](https://github.com/ennuo/toolkit/blob/main/lib/cwlib/src/main/java/cwlib/enums/ResourceType.java)
 
+
 ## Resource Types
 
 | Docs Page | Magic Number   | Type ID (Hex) | Type ID (Decimal) | Extension | Description                                                                                                                                      |
